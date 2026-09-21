@@ -1,0 +1,13 @@
+Vehicle ID: v001
+Vehicle Type: twowheeler
+Vehicle Model: scooty
+Vehicle Rent: 900
+Available: True
+------------------------------
+Vehicle ID: v002
+Vehicle Type: fourwheeler
+Vehicle Model: car
+Vehicle Rent: 1500
+Available: True
+------------------------------
+
